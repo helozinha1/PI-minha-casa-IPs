@@ -72,6 +72,7 @@ Esta configuração de sub-rede (`/26`) fornece uma quantidade adequada de ender
 
 ## 🧑‍💻 Desenvolvido por
 
+* **José Marco**
 * **Helloysa Rocha**
 * **Gabrielly Dias**
 * **HAGMA**
