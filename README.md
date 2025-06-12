@@ -46,9 +46,9 @@ A tabela abaixo lista os endereços IP atribuídos a cada dispositivo IoT e comp
 | `192.168.1.34`  | Ar-condicionado   | Ar Condicionado do Quarto Principal                                                                                                                                                                                                      |
 | `192.168.1.35`  | Ar-condicionado   | Ar Condicionado do Quarto de Hóspedes                                                                                                                                                                                                    |
 | `192.168.1.36`  | Tablet            | Dispositivo de controle central                                                                                                                                                                                                          |
-| `192.168.1.37`  | Fogão            | Dispositivo de controle central                                                                                                                                                                                                          |
-| `192.168.1.38`  | Chuveiro            | Dispositivo de controle central                                                                                                                                                                                                          |
-| `192.168.1.39`  | Fechadura            | Dispositivo de controle central                                                                                                                                                                                                          |
+| `192.168.1.37`  | Fogão            | Fogão Inteligente da Cozinha                                                                                                                                                                                                          |
+| `192.168.1.38`  | Chuveiro            | Chuveiro Inteligente do Social                                                                                                                                                                                                      |
+| `192.168.1.39`  | Fechadura            | Fechadura da Portal Principal                                                                                                                                                                                                          |
 
 ---
 
